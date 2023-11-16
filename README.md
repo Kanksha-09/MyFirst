@@ -1,2 +1,3 @@
 # MyFirst
-This is my first repository
+This is my first repository.
+By - Kanksha Pharate
